@@ -1,4 +1,4 @@
 spoj
 ====
 
-sphere online judge problems
+my solution for sphere online judge problems
